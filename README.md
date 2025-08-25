@@ -1,5 +1,5 @@
 <!-- 프로필 상단 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yewon's GitHub&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yewon%27s%20GitHub&fontSize=20" />
 
 <!-- 간단 인사 -->
 <p align="center">
@@ -26,8 +26,8 @@
 <!-- GitHub Stats + Most Used Languages -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyewon&layout=compact&langs_count=8&card_width=320&theme=radical&include_forks=true""
-    height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyewon&layout=compact&langs_count=8&card_width=320&theme=radical"
+  height="160"
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=nyewon&show_icons=true&theme=radical&rank_icon=github"

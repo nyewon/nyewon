@@ -1,11 +1,6 @@
 <!-- 프로필 상단 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yewon%27s%20GitHub&fontSize=30&fontColor=ffffff" />
 
-<!-- 간단 인사 -->
-<p align="center">
-  <font size="5"><b>반갑습니다 노예원입니다 😊</b></font>
-</p>
-
 <br />
 
 <!-- Skills -->
@@ -26,27 +21,17 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-<table align="center" cellspacing="0" cellpadding="0"
-       style="border-collapse:collapse;border:none;outline:none;box-shadow:none;background:none;">
-  <tr>
-    <td style="border:none;padding:0 8px;">
-      <a href="https://github.com/nyewon" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td style="border:none;padding:0 8px;">
-      <a href="https://velog.io/@yewonn" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-      </a>
-    </td>
-    <td style="border:none;padding:0 8px;">
-      <a href="https://plump-puppy-194.notion.site/Yewon-Noh-11409c410066803bb038cabe9af7be72?source=copy_link"
-         rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/nyewon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@yewonn" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+  <a href="https://plump-puppy-194.notion.site/Yewon-Noh-11409c410066803bb038cabe9af7be72?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>
 
 <br />
 

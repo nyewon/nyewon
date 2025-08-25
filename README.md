@@ -27,25 +27,30 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <a href="https://velog.io/@yewonn" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/nyewon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@yewonn" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="https://plump-puppy-194.notion.site/Yewon-Noh-11409c410066803bb038cabe9af7be72?source=copy_link" target="_blank" style="text-decoration:none;">
+  <a href="https://plump-puppy-194.notion.site/Yewon-Noh-11409c410066803bb038cabe9af7be72?source=copy_link" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
+
 
 <br />
 
 <!-- GitHub Stats + Most Used Languages -->
 <h3 align="center">📊 GitHubStats</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <a href="https://plump-puppy-194.notion.site/Yewon-Noh-11409c410066803bb038cabe9af7be72?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-  <a href="https://velog.io/@yewonn" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyewon&langs_count=8&card_width=380&theme=default"
+  height="160"
+  />
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=nyewon&show_icons=true&theme=default&rank_icon=default"
+  height="160"
+  />
 </p>
+

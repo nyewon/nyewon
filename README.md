@@ -1,7 +1,5 @@
 <!-- 프로필 상단 -->
-<div align="center" style="background-color: #f9d7dc; padding: 20px; border-radius: 10px;">
-  <h1>Yewon's GitHub</h1>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yewon's GitHub&fontSize=20" />
 
 <!-- 간단 인사 -->
 <p align="center">
@@ -16,7 +14,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 <p align="center">
@@ -28,7 +26,7 @@
 <!-- GitHub Stats + Most Used Languages -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyewon&layout=compact&langs_count=8&card_width=320&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyewon&layout=compact&langs_count=8&card_width=320&theme=radical&include_forks=true""
     height="160"
   />
   <img

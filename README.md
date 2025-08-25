@@ -26,25 +26,17 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-<table align="center" border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/nyewon">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://velog.io/@yewonn">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://plump-puppy-194.notion.site/Yewon-Noh-11409c410066803bb038cabe9af7be72?source=copy_link">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/nyewon" tabindex="-1" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@yewonn" tabindex="-1" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+  <a href="https://plump-puppy-194.notion.site/Yewon-Noh-11409c410066803bb038cabe9af7be72?source=copy_link" tabindex="-1" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</div>
 
 <br />
 

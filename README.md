@@ -1,8 +1,6 @@
 <!-- 프로필 상단 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yewon%27s%20GitHub&fontSize=30&fontColor=ffffff" />
 
-<br />
-
 <!-- Skills -->
 <h3 align="center">🛠 Skills</h3>
 

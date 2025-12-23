@@ -45,7 +45,7 @@
   height="160"
   />
   <a href="https://github.com/nyewon/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyewon&theme=react-dark&bg_color=20232a&hide_border=true&line=F9BFB7&color=F9BFB7" width=77%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyewon&theme=react-dark&bg_color=20232a&hide_border=true&line=F9BFB7&color=F9BFB7" width=80%/>
   </a>
 </p>
 

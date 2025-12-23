@@ -37,11 +37,11 @@
 
 <p align="center">
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyewon&layout=compact&bg_color=20232a&title_color=F9BFB7&text_color=E5E7EB&icon_color=F9BFB7&border_color=20232a"
+  src="https://github-readme-stats-rouge-zeta-62.vercel.app/api/top-langs/?username=nyewon&layout=compact&bg_color=20232a&title_color=F9BFB7&text_color=E5E7EB&icon_color=F9BFB7&border_color=20232a"
   height="160"
   />
   <img
-  src="https://github-readme-stats.vercel.app/api?username=nyewon&show_icons=true&bg_color=20232a&title_color=F9BFB7&text_color=E5E7EB&icon_color=F9BFB7&ring_color=F9BFB7&border_color=20232a"
+  src="https://github-readme-stats-rouge-zeta-62.vercel.app/api?username=nyewon&show_icons=true&bg_color=20232a&title_color=F9BFB7&text_color=E5E7EB&icon_color=F9BFB7&ring_color=F9BFB7&border_color=20232a"
   height="160"
   />
   <a href="https://github.com/nyewon/github-readme-activity-graph">

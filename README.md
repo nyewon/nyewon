@@ -78,6 +78,11 @@
       <td>9oormthon UNIV 3rd</td>
       <td>Frontend</td>
     </tr>
+    <tr>
+      <td>2026.01 ~ 2026.03</td>
+      <td>Tetrapod</td>
+      <td>Frontend</td>
+    </tr>
   </tbody>
 </table>
 

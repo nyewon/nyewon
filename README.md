@@ -83,6 +83,11 @@
       <td>Tetrapod</td>
       <td>Frontend</td>
     </tr>
+    <tr>
+      <td>2026.03 ~ 2026.07</td>
+      <td>SOPT 38th</td>
+      <td>WEB</td>
+    </tr>
   </tbody>
 </table>
 
